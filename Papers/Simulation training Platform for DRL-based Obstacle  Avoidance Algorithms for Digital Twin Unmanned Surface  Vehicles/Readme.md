@@ -43,15 +43,14 @@
 - 在运动模拟实验中，USV在该平台上的运动数据与真实世界导航的偏差小于10%。这展示了反映客观运动模式的高度运动模拟精度。构建的虚拟环境和模拟传感器提供了与真实世界场景非常相似的数据，支持了模拟的准确性。在真实世界的部署过程中，各种算法的成功率与在虚拟仿真环境中获得的结果有很强的相关性。这表明，使用该平台在非理想条件下训练的算法可以在真实世界的场景中提供可比较的结果，从而展示出强大的泛化能力。
 - 除了模拟USV运动，该平台还便于算法训练和验证。因此，为智能USV算法的研究和泛化性能的测试提供了一个稳健的基准。该平台的预期用户群包括无人水面舰艇领域的广泛开发人员。此外，它在最大限度地减少海上调试工作量、增强算法适应性和加快算法开发周期方面发挥着至关重要的作用。
 
-![](C:/Users/54476/Desktop/rl/Paper/imagepaper/2_1.PNG)
+![](/Papers/imagepaper/2_1.PNG)
+![](/Papers/imagepaper/2_2.PNG)
 
-![](C:/Users/54476/Desktop/rl/Paper/imagepaper/2_2.PNG)
+![](/Papers/imagepaper/2_3.PNG)
 
-![](C:/Users/54476/Desktop/rl/Paper/imagepaper/2_3.PNG)
+![](/Papers/imagepaper/2_4.PNG)
 
-![](C:/Users/54476/Desktop/rl/Paper/imagepaper/2_4.PNG)
-
-![](C:/Users/54476/Desktop/rl/Paper/imagepaper/2_5.PNG)
+![](/Papers/imagepaper/2_5.PNG)
 
 ### 引用
 
